@@ -23,8 +23,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-* [Solution](ADD_FRONTEND_MENTOR_SOLUTION_LINK)
-* [Live](ADD_VERCEL_LINK)
+* [Solution](https://www.frontendmentor.io/solutions/product-preview-card-using-html-css-grid-layout-qp2cDb1Xse)
+* [Live](https://product-preview-card-six-beta.vercel.app/)
 
 ## My process
 
